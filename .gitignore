@@ -1,5 +1,8 @@
 DO-NOT-UPLOAD/
 
+# Python bytecode
+__pycache__/
+
 # Virtual environment
 venv/
 .env/
