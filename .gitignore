@@ -1,0 +1,10 @@
+DO-NOT-UPLOAD/
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
